@@ -1,5 +1,5 @@
 # agopengps
-Agopengps asennusohjeita kalvoesityksenä. Viimeisimmässä kalvosetissä (2016_6_12) EI ole vielä huomioitu keväällä ilmestynyttä uutta Agopengps-versiota joka on eth-liitäntäinen ja malliltaan erittäin kehittynyt.
+Agopengps asennusohjeita kalvoesityksenä. Viimeisimmässä kalvosetissä (2016_6_12) EI ole vielä huomioitu keväällä ilmestynyttä uutta Agopengps:n piirilevyä, joka on eth-liitäntäinen ja malliltaan erittäin kehittynyt.
 
 Varsinaiset koodit ja muut aineistot löytyvät pääosin osoitteista:
 - https://github.com/farmerbriantee/AgOpenGPS
