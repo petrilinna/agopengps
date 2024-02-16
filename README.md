@@ -9,6 +9,6 @@ Varsinaiset koodit ja muut aineistot löytyvät pääosin osoitteista:
 
 Nämä sivustot koskee tukiasemaa:
 - https://github.com/Stefal/rtkbase  # ohjelmisto
-- http://rtk2go.com/  #tuki
+- http://rtk2go.com/  #Korjaussignaalin välityspalvelu
 - http://rtk2go.com:2101/  # tältä alasivulta voi tarkistaa tällä hetkellä päällä olevat tukiasemat (etsi suomen osalta hakusanalla: ;FIN;)
 
