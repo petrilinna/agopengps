@@ -1,5 +1,5 @@
 # agopengps
-Agopengps asennusohjeita kalvoesityksenä. Viimeisimmässä kalvosetissä (2023_6_12) EI ole vielä huomioitu uusinta "All-in-One" piirilevyä, joka on eth-liitäntäinen ja malliltaan erittäin kehittynyt.
+Agopengps asennusohjeita kalvoesityksenä. Kalvoihin on päivitetty "All-in-One" piirilevy, joka on eth-liitäntäinen ja malliltaan erittäin kehittynyt.
 https://discourse.agopengps.com/t/all-in-one-pcb/10444/1290 ja https://github.com/AgHardware/Boards/wiki/AIO-Board-flavours.
 
 Varsinaiset koodit ja muut aineistot löytyvät pääosin osoitteista:
