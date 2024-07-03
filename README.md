@@ -3,7 +3,7 @@ Agopengps asennusohjeita kalvoesityksenä. Kalvoihin on päivitetty "All-in-One"
 https://discourse.agopengps.com/t/all-in-one-pcb/10444/1290 ja https://github.com/AgHardware/Boards/wiki/AIO-Board-flavours.
 
 Varsinaiset koodit ja muut aineistot löytyvät pääosin osoitteista:
-- https://github.com/AgHardware/Boards/wiki # kannattaa aiheen opiskelu aloittaa täältä
+- https://github.com/AgHardware/Boards/wiki # aiheen opiskelu kannattaa aloittaa täältä
 - https://github.com/farmerbriantee/AgOpenGPS # aloitussivu agopengps ohjelman koodiin
 - https://github.com/farmerbriantee/AgOpenGPS/releases  #täällä löytyy suorat latauslinkit windowsilla pyöritettävään ohjelmistoon.
 
