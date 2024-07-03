@@ -12,3 +12,5 @@ Nämä sivustot koskee tukiasemaa:
 - http://rtk2go.com/  #Korjaussignaalin välityspalvelu
 - http://rtk2go.com:2101/  # tältä alasivulta voi tarkistaa tällä hetkellä päällä olevat tukiasemat (etsi suomen osalta hakusanalla: ;FIN;)
 
+Tukiasemien tilanne 3.7.2024
+![image](https://github.com/petrilinna/agopengps/assets/44966913/f3590ae7-54e7-47cb-8a5c-9dcf9ffdf12c)
